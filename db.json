@@ -101,43 +101,43 @@
     {
       "id": 1,
       "patientId": 1,
-      "timestamp": "2020-09-09T09:52:04.575Z",
+      "created": "2020-09-09T09:52:04.575Z",
       "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
     },
     {
       "id": 2,
       "patientId": 1,
-      "timestamp": "2020-09-09T09:52:04.575Z",
+      "created": "2020-09-09T09:52:04.575Z",
       "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
     },
     {
       "id": 3,
       "patientId": 2,
-      "timestamp": "2020-09-09T09:52:04.575Z",
+      "created": "2020-09-09T09:52:04.575Z",
       "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Say hello"
     },
     {
       "id": 4,
       "patientId": 3,
-      "timestamp": "2020-09-09T09:52:04.575Z",
+      "created": "2020-09-09T09:52:04.575Z",
       "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Say hello"
     },
     {
       "id": 5,
       "patientId": 4,
-      "timestamp": "2020-09-09T09:52:04.575Z",
+      "created": "2020-09-09T09:52:04.575Z",
       "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Say hello"
     },
     {
       "id": 6,
       "patientId": 4,
-      "timestamp": "2020-09-09T09:52:04.575Z",
+      "created": "2020-09-09T09:52:04.575Z",
       "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Say hello"
     },
     {
       "id": 7,
       "patientId": 4,
-      "timestamp": "2020-09-09T09:52:04.575Z",
+      "created": "2020-09-09T09:52:04.575Z",
       "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Say hello"
     }
   ]
